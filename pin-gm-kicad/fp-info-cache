@@ -1,4 +1,4 @@
-20159278111133676
+20160928975643949
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53031,6 +53031,20 @@ heatsink
 0
 2
 1
+Homemade
+C_trimmer_D10mm_homemade
+
+
+0
+0
+0
+Homemade
+L_Bourns_SRR0604_homemade
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -53399,13 +53413,6 @@ Inductor_SMD
 L_Bourns_SRP7028A_7.3x6.6mm
 Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
 Shielded Inductors Bourns SMD SRP7028A
-0
-2
-2
-Inductor_SMD
-L_Bourns_SRR0604_homemade
-
-
 0
 2
 2
