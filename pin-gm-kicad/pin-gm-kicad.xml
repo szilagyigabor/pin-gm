@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\gbrsz\git\pin-gm\pin-gm-kicad\pin-gm-kicad.kicad_sch</source>
-    <date>2022. 04. 24. 14:19:15</date>
+    <date>2022. 04. 25. 21:16:41</date>
     <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -80,15 +80,6 @@
       <tstamps>6c39388b-21e9-4c26-9bbc-13b8bcf2deef</tstamps>
     </comp>
     <comp ref="C6">
-      <value>10p</value>
-      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>80ece006-b95c-4f73-ada8-35426016d36e</tstamps>
-    </comp>
-    <comp ref="C7">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -97,14 +88,23 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c015c16e-9c81-4017-b0db-af33c83db416</tstamps>
     </comp>
-    <comp ref="C8">
-      <value>100n</value>
+    <comp ref="C7">
+      <value>10p</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>1d9301ff-c633-41ef-a1d2-8ad9d5ffe30e</tstamps>
+      <tstamps>42493e6c-6f5c-4901-8a80-1ada9a0a49ca</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80ece006-b95c-4f73-ada8-35426016d36e</tstamps>
     </comp>
     <comp ref="C9">
       <value>100n</value>
@@ -113,7 +113,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f0c64f4d-527d-417e-be87-5da52b4e08c9</tstamps>
+      <tstamps>1d9301ff-c633-41ef-a1d2-8ad9d5ffe30e</tstamps>
     </comp>
     <comp ref="C10">
       <value>100n</value>
@@ -122,9 +122,18 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>eebc6554-178d-42fe-a63d-caa1839499d5</tstamps>
+      <tstamps>f0c64f4d-527d-417e-be87-5da52b4e08c9</tstamps>
     </comp>
     <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eebc6554-178d-42fe-a63d-caa1839499d5</tstamps>
+    </comp>
+    <comp ref="C12">
       <value>47u</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -133,7 +142,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>15eb7281-a003-4c50-857d-07fc0fc2a6b3</tstamps>
     </comp>
-    <comp ref="C12">
+    <comp ref="C13">
       <value>10p</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -142,7 +151,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2cf9aa23-fd6d-4cc3-92bb-459a99bb0178</tstamps>
     </comp>
-    <comp ref="C13">
+    <comp ref="C14">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -151,7 +160,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e129b3af-665f-40f9-adbc-5d03386d8ea4</tstamps>
     </comp>
-    <comp ref="C14">
+    <comp ref="C15">
       <value>47u</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -292,7 +301,7 @@
     </comp>
     <comp ref="R9">
       <value>1k</value>
-      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
@@ -362,7 +371,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pin-gm-kicad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fe1771f5-b72c-4bc4-add4-a2ba0d9e31fd b027388d-8092-416a-ae2f-62be7825303f 64221fe8-21fa-49d0-9f10-9851134afcf1</tstamps>
+      <tstamps>b027388d-8092-416a-ae2f-62be7825303f fe1771f5-b72c-4bc4-add4-a2ba0d9e31fd 64221fe8-21fa-49d0-9f10-9851134afcf1</tstamps>
     </comp>
   </components>
   <libparts>
@@ -572,11 +581,12 @@
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
-      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
       <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
@@ -617,47 +627,46 @@
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
-      <node ref="C6" pin="1" pintype="passive"/>
-    </net>
-    <net code="7" name="Net-(C6-Pad2)">
-      <node ref="C6" pin="2" pintype="passive"/>
-      <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="R8" pin="2" pintype="passive"/>
-      <node ref="U2" pin="1" pintype="output"/>
-    </net>
-    <net code="8" name="Net-(C7-Pad1)">
       <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
     </net>
-    <net code="9" name="Net-(C7-Pad2)">
-      <node ref="C7" pin="2" pintype="passive"/>
+    <net code="8" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
       <node ref="LS1" pin="1" pinfunction="1" pintype="input"/>
     </net>
-    <net code="10" name="Net-(C8-Pad2)">
+    <net code="9" name="Net-(C8-Pad2)">
       <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
     </net>
-    <net code="11" name="Net-(C9-Pad1)">
-      <node ref="C9" pin="1" pintype="passive"/>
+    <net code="11" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="12" name="Net-(C12-Pad1)">
-      <node ref="C12" pin="1" pintype="passive"/>
+    <net code="12" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
       <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
     </net>
-    <net code="13" name="Net-(C12-Pad2)">
-      <node ref="C12" pin="2" pintype="passive"/>
+    <net code="13" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="U2" pin="7" pintype="output"/>
     </net>
-    <net code="14" name="Net-(C13-Pad1)">
-      <node ref="C13" pin="1" pintype="passive"/>
+    <net code="14" name="Net-(C14-Pad1)">
       <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
@@ -683,15 +692,19 @@
       <node ref="R7" pin="2" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="20" name="Net-(R9-Pad1)">
+    <net code="20" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(R9-Pad1)">
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
       <node ref="U1" pin="7" pintype="output"/>
     </net>
-    <net code="21" name="VCC">
+    <net code="22" name="VCC">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
-      <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
