@@ -2463,130 +2463,130 @@
       (reference "#PWR014") (unit 1) (value "VCC") (footprint "")
     )
     (path "/5ff30aa8-8b84-4a14-8fe7-575ea331eee8"
-      (reference "BT1") (unit 1) (value "Battery") (footprint "Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm")
+      (reference "BT1") (unit 1) (value "Battery") (footprint "Homemade:SolderWire-homemade")
     )
     (path "/5245e777-447b-4a1d-8d9f-f47bcc30d4d2"
-      (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C1") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/08803e5c-d884-4c63-81db-dbb41b7f47db"
-      (reference "C2") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C2") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/4cfb5221-51db-4e9b-86f7-16fd5eb34524"
-      (reference "C3") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C3") (unit 1) (value "10p") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/82370792-8708-4fd1-9b05-929bb144f86b"
       (reference "C4") (unit 1) (value "10-40p") (footprint "Homemade:C_trimmer_D10mm_homemade")
     )
     (path "/6c39388b-21e9-4c26-9bbc-13b8bcf2deef"
-      (reference "C5") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C5") (unit 1) (value "10p") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/c015c16e-9c81-4017-b0db-af33c83db416"
-      (reference "C6") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C6") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/42493e6c-6f5c-4901-8a80-1ada9a0a49ca"
-      (reference "C7") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C7") (unit 1) (value "10p") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/80ece006-b95c-4f73-ada8-35426016d36e"
-      (reference "C8") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C8") (unit 1) (value "10p") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/1d9301ff-c633-41ef-a1d2-8ad9d5ffe30e"
-      (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C9") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/f0c64f4d-527d-417e-be87-5da52b4e08c9"
-      (reference "C10") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C10") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/eebc6554-178d-42fe-a63d-caa1839499d5"
-      (reference "C11") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C11") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/15eb7281-a003-4c50-857d-07fc0fc2a6b3"
-      (reference "C12") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
+      (reference "C12") (unit 1) (value "47u") (footprint "Homemade:C_1210_3225Metric_homemade")
     )
     (path "/2cf9aa23-fd6d-4cc3-92bb-459a99bb0178"
-      (reference "C13") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C13") (unit 1) (value "10p") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/e129b3af-665f-40f9-adbc-5d03386d8ea4"
-      (reference "C14") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C14") (unit 1) (value "100n") (footprint "Homemade:C_1206_3216Metric_homemade")
     )
     (path "/6d453dff-1247-4d46-afa2-5eed3ae0db3b"
-      (reference "C15") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
+      (reference "C15") (unit 1) (value "47u") (footprint "Homemade:C_1210_3225Metric_homemade")
     )
     (path "/7eba3fea-b5e5-4408-965a-3847a1c962df"
-      (reference "D1") (unit 1) (value "BPW34") (footprint "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm")
+      (reference "D1") (unit 1) (value "BPW34") (footprint "Homemade:BPW34_homemade")
     )
     (path "/df18fe81-9255-405d-a5b5-938dec73dc96"
-      (reference "D2") (unit 1) (value "BPW34") (footprint "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm")
+      (reference "D2") (unit 1) (value "BPW34") (footprint "Homemade:BPW34_homemade")
     )
     (path "/54e8cba2-0ce7-43aa-925e-bfdf03c7331a"
-      (reference "D3") (unit 1) (value "BPW34") (footprint "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm")
+      (reference "D3") (unit 1) (value "BPW34") (footprint "Homemade:BPW34_homemade")
     )
     (path "/9cb8d8fc-34bf-4999-b1f9-28a0489688b6"
-      (reference "D4") (unit 1) (value "BPW34") (footprint "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm")
+      (reference "D4") (unit 1) (value "BPW34") (footprint "Homemade:BPW34_homemade")
     )
     (path "/0d4063a4-7e7d-4f4a-9402-ef7ad0b0a587"
       (reference "L1") (unit 1) (value "1m") (footprint "Homemade:L_Bourns_SRR0604_homemade")
     )
     (path "/ba02f009-fecc-4839-bbc3-c818d0cf8117"
-      (reference "LS1") (unit 1) (value "Speaker") (footprint "Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm")
+      (reference "LS1") (unit 1) (value "Speaker") (footprint "Homemade:SolderWire-homemade")
     )
     (path "/1a71b2dc-78ea-4514-bae8-ad67f676f6b5"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R1") (unit 1) (value "1k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/08f3828c-efcc-49ed-8cc0-4166816431ba"
-      (reference "R2") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R2") (unit 1) (value "5k1") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/2deb450a-2bd0-4c9d-a86d-0b2a8bf4c1df"
-      (reference "R3") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R3") (unit 1) (value "5k1") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/db5cff94-929a-4e7d-9b93-c44b7e041ed4"
-      (reference "R4") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R4") (unit 1) (value "1k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/090684f0-2db5-4c27-adcd-136c105cb53b"
-      (reference "R5") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R5") (unit 1) (value "4.7k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/308969a0-f480-4216-80b1-1a612204a77a"
-      (reference "R6") (unit 1) (value "15k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R6") (unit 1) (value "15k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/6d2c69c6-f1c6-4463-a1fb-0a4e265964f9"
-      (reference "R7") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R7") (unit 1) (value "1k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/d52e1267-fa8d-48d4-aca3-6fc0ca73206a"
-      (reference "R8") (unit 1) (value "10M") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R8") (unit 1) (value "10M") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/2fc08f6f-4f2f-4af3-be54-4ccc46035831"
-      (reference "R9") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R9") (unit 1) (value "1k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/8fc96e1e-e475-40a8-9070-8bc03c132112"
-      (reference "R10") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R10") (unit 1) (value "1k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/24630662-4694-4ff9-8988-56d79db7e493"
-      (reference "R11") (unit 1) (value "10k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R11") (unit 1) (value "10k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/94068416-c814-4c9f-b958-875c66598f15"
-      (reference "R12") (unit 1) (value "10k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R12") (unit 1) (value "10k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/39b6d60a-31a9-4d7c-ac44-b08039071920"
-      (reference "R13") (unit 1) (value "100k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R13") (unit 1) (value "100k") (footprint "Homemade:R_1206_3216Metric_homemade")
     )
     (path "/d4323b7d-fa65-4bcb-85b5-5dd01dd9b9a5"
-      (reference "RV1") (unit 1) (value "5k") (footprint "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical")
+      (reference "RV1") (unit 1) (value "5k") (footprint "Homemade:Potentiometer_D10_vert_homemade")
     )
     (path "/fdbf8c18-e275-46ef-b0b2-187d61d9fdb0"
-      (reference "U1") (unit 1) (value "LM358") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 1) (value "LM358") (footprint "Homemade:SO-8_3.9x4.9mm_homemade")
     )
     (path "/1ea6e944-e55b-4452-99f5-6cadeaa70bdf"
-      (reference "U1") (unit 2) (value "LM358") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 2) (value "LM358") (footprint "Homemade:SO-8_3.9x4.9mm_homemade")
     )
     (path "/0e5c48f4-6e7b-42bf-a2c3-93fd3cd8b577"
-      (reference "U1") (unit 3) (value "LM358") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 3) (value "LM358") (footprint "Homemade:SO-8_3.9x4.9mm_homemade")
     )
     (path "/b027388d-8092-416a-ae2f-62be7825303f"
-      (reference "U2") (unit 1) (value "TL072") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U2") (unit 1) (value "TL072") (footprint "Homemade:SO-8_3.9x4.9mm_homemade")
     )
     (path "/fe1771f5-b72c-4bc4-add4-a2ba0d9e31fd"
-      (reference "U2") (unit 2) (value "TL072") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U2") (unit 2) (value "TL072") (footprint "Homemade:SO-8_3.9x4.9mm_homemade")
     )
     (path "/64221fe8-21fa-49d0-9f10-9851134afcf1"
-      (reference "U2") (unit 3) (value "TL072") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U2") (unit 3) (value "TL072") (footprint "Homemade:SO-8_3.9x4.9mm_homemade")
     )
   )
 )

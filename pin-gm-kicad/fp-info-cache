@@ -1,4 +1,4 @@
-20160929200843061
+20172487162575045
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53032,6 +53032,27 @@ heatsink
 2
 1
 Homemade
+BPW34_homemade
+PhotoDiode, plastic DIL, 4.3x4.65mm², RM5.08
+PhotoDiode plastic DIL RM5.08
+0
+2
+2
+Homemade
+C_1206_3216Metric_homemade
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Homemade
+C_1210_3225Metric_homemade
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Homemade
 C_trimmer_D10mm_homemade
 
 
@@ -53042,6 +53063,34 @@ Homemade
 L_Bourns_SRR0604_homemade
 
 
+0
+2
+2
+Homemade
+Potentiometer_D10_vert_homemade
+Potentiometer, vertical, Piher PT-10-V10, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical Piher PT-10-V10
+0
+3
+3
+Homemade
+R_1206_3216Metric_homemade
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Homemade
+SO-8_3.9x4.9mm_homemade
+SO, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+8
+8
+Homemade
+SolderWire-homemade
+Soldered wire connection, for 2 times 2 mm² wires, reinforced insulation, conductor diameter 2mm, outer diameter 3.9mm, size source Multi-Contact FLEXI-xV 2.0 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 2sqmm
 0
 2
 2
