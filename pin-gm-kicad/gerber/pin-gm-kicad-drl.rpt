@@ -1,5 +1,5 @@
 Drill report for pin-gm-kicad.kicad_pcb
-Created on 2022. ápr. 29., péntek, 21:13:18 CEST
+Created on 2022. ápr. 30., szombat, 14:27:04 CEST
 
 Copper Layer Stackup:
     =============================================================
@@ -7,7 +7,7 @@ Copper Layer Stackup:
     L2 :  B.Cu                      back
 
 
-Drill file 'pin-gm-kicad-PTH.drl' contains
+Drill file 'pin-gm-kicad.drl' contains
     plated through holes:
     =============================================================
     T1  0,700mm  0,0276"  (38 holes)
@@ -19,7 +19,7 @@ Drill file 'pin-gm-kicad-PTH.drl' contains
     Total plated holes count 58
 
 
-Drill file 'pin-gm-kicad-NPTH.drl' contains
+Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
 
